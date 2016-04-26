@@ -12,7 +12,7 @@ using namespace std;
 int main (int argc, const char* argv[]) {
   int variable = 0;
 
-  while (variable < 5) {
+  while (variable < 10) {
     cout << "The variable is " << variable << endl;
     variable++;
   }
